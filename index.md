@@ -10,3 +10,10 @@
 ```javascript
 let message = "Hello, Markdown!";
 console.log(message);
+```
+## My Markdown Task List
+
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [ ] Add a task list (this one!)
